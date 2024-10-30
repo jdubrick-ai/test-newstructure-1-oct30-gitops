@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-newstructure-1-oct30-database-config
+data:
+  VECTORDB_HOST: "test-newstructure-1-oct30-database"
+  VECTORDB_PORT: ""

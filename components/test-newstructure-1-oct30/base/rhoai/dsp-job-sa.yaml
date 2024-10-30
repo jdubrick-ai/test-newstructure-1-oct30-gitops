@@ -1,0 +1,4 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: test-newstructure-1-oct30-dsp-job
